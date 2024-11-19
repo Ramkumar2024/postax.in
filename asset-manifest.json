@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/postax.in/static/css/main.0ceab0fb.css",
-    "main.js": "/postax.in/static/js/main.73854649.js",
+    "main.js": "/postax.in/static/js/main.bbd9248a.js",
     "static/media/Img1.jpg": "/postax.in/static/media/Img1.4cbe948bbb45d2a3e705.jpg",
     "static/media/Img3.jpg": "/postax.in/static/media/Img3.2378ac558f06fca353a2.jpg",
     "static/media/Img2.jpg": "/postax.in/static/media/Img2.c81e1c5018c9b9833bb9.jpg",
@@ -21,10 +21,10 @@
     "static/media/slick.woff": "/postax.in/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/postax.in/index.html",
     "main.0ceab0fb.css.map": "/postax.in/static/css/main.0ceab0fb.css.map",
-    "main.73854649.js.map": "/postax.in/static/js/main.73854649.js.map"
+    "main.bbd9248a.js.map": "/postax.in/static/js/main.bbd9248a.js.map"
   },
   "entrypoints": [
     "static/css/main.0ceab0fb.css",
-    "static/js/main.73854649.js"
+    "static/js/main.bbd9248a.js"
   ]
 }

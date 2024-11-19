@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/postax.in/static/css/main.0ceab0fb.css",
+    "main.js": "/postax.in/static/js/main.5876a210.js",
+    "static/media/Img1.jpg": "/postax.in/static/media/Img1.4cbe948bbb45d2a3e705.jpg",
+    "static/media/Img3.jpg": "/postax.in/static/media/Img3.2378ac558f06fca353a2.jpg",
+    "static/media/Img2.jpg": "/postax.in/static/media/Img2.c81e1c5018c9b9833bb9.jpg",
+    "static/media/LS-logo.png": "/postax.in/static/media/LS-logo.987f6e09b4c326be66c1.png",
+    "static/media/image.png": "/postax.in/static/media/image.987f6e09b4c326be66c1.png",
+    "static/media/top.webp": "/postax.in/static/media/top.e35bdca43ddf115f6eaa.webp",
+    "static/media/gropImg.jpg": "/postax.in/static/media/gropImg.8fc6cd63cf971204a579.jpg",
+    "static/media/laptop.jpg": "/postax.in/static/media/laptop.d3226c1f9754a9f99c1a.jpg",
+    "static/media/Design.jpg": "/postax.in/static/media/Design.45b488ee01b6e60724e2.jpg",
+    "static/media/singlrImg.jpg": "/postax.in/static/media/singlrImg.6135cdc4dd95ff8da061.jpg",
+    "static/media/career_img.png": "/postax.in/static/media/career_img.b864b3721fbbf0bd7063.png",
+    "static/media/sports-icon.png": "/postax.in/static/media/sports-icon.95ed0fcaf081cfc02cd3.png",
+    "static/media/growth.png": "/postax.in/static/media/growth.5ec8bf6531d1a4a31576.png",
+    "static/media/slick.svg": "/postax.in/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/postax.in/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/postax.in/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/postax.in/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/postax.in/index.html",
+    "main.0ceab0fb.css.map": "/postax.in/static/css/main.0ceab0fb.css.map",
+    "main.5876a210.js.map": "/postax.in/static/js/main.5876a210.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ceab0fb.css",
+    "static/js/main.5876a210.js"
+  ]
+}
